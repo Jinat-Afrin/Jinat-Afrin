@@ -20,23 +20,23 @@ I enjoy creating beautiful websites with HTML and CSS while exploring JavaScript
 
 ## 📂 Featured Projects
 ### Project 1 — My First Web Development Project
-A website project built with HTML and CSS.
-▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/g3-architacts/)
+A website project built with HTML and CSS.<br>
+▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/g3-architacts/)<br>
 ▹💻 **Source Code:**[View on GitHub](https://github.com/Jinat-Afrin/g3-architacts)
 ### Project 2 — Responsive Website
-A website project built with HTML and CSS.
-▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/Assingment-1/)
+A website project built with HTML and CSS.<br>
+▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/Assingment-1/)<br>
 ▹💻 **Source Code:**[View on GitHub](https://github.com/Jinat-Afrin/Assingment-1)
 ### Project 3 — Responsive Website
-A website project built with HTML and CSS.
-▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/B13-Assingment--02-TechWave/)
+A website project built with HTML and CSS.<br>
+▹🌐 **Live Demo:**[Visit Website](https://jinat-afrin.github.io/B13-Assingment--02-TechWave/)<br>
 ▹💻 **Source Code:**[View on GitHub](https://github.com/Jinat-Afrin/B13-Assingment--02-TechWave)
 
 ## 🌐 Connect With Me
 ▹ 🐙**GitHub:**[Jinat Afrin](https://github.com/Jinat-Afrin)
 
 <div align="center">
-<h2>Thanks for visiting my profile!</h2> 
+<h2>Thanks for visiting my profile!❤️</h2> 
 <p><strong>Building my skills, one project at a time.</strong></p>
 <p>💻 Learn | Code | Build | Grow</p>
 </div>
